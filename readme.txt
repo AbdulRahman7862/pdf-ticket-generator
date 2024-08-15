@@ -3,8 +3,8 @@
 Hi,
 
 In order to run the code,
+Follow these steps:
 
-first of all 
 1. Clone with git clone <Repo Link>
 2. open it on your code editor
 3. run npm install to install node_modules with all required packages
