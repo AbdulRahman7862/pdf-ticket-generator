@@ -1,23 +1,12 @@
 
 
-Hello,
+Hi,
 
-In order to run the code
+In order to run the code,
 
-first of all open it on your code
-editor
-run
+first of all 
+1. Clone with git clone <Repo Link>
+2. open it on your code editor
+3. run npm install to install node_modules with all required packages
+4.then execute the command node final.js
 
-npm install to install packages
-
-then execute the command
-
-node final.js
-
-
-
-Moreover, i have written the 
-isolated method for qr as well
-
-its present in the isolatedqr.js
-file
